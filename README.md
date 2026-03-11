@@ -1,8 +1,9 @@
-## Range testing 
-![On Metal tags range testing](https://github.com/user-attachments/assets/afd76b5b-92dc-461b-a3f1-d5309ed14dc5)
 
 ## Casing With Led Indication 
 ![Casing with Led to indicate verigfication](https://github.com/user-attachments/assets/57ceb031-fe52-46c5-99bb-0c5c1d9719d1)
+
+## Range testing with Metal tags
+![On Metal tags range testing](https://github.com/user-attachments/assets/afd76b5b-92dc-461b-a3f1-d5309ed14dc5)
 
 ## Metal tags Placed and covered with foam
 ![metal tags Placed and covered with foam](https://github.com/user-attachments/assets/7912eaee-9624-43e0-9338-b1751910891b)
