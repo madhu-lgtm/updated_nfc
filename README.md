@@ -1,5 +1,9 @@
-## Circuit Diagram 
+## Circuit Diagram v1
+Read Two NFC tags:-
 <img width="886" height="678" alt="image" src="https://github.com/user-attachments/assets/3abad6ac-cbbb-489e-bcec-42a09b867f24" />
+## Circuit Diagram v2
+Verify Two NFC tags with Two Readers and Control Reciver Connection to the Drone
+<img width="1415" height="808" alt="image" src="https://github.com/user-attachments/assets/bb9a461e-5eea-4425-ae1b-637a1b57af98" />
 
 ## Casing With Led Indication 
 ![Casing with Led to indicate verigfication](https://github.com/user-attachments/assets/57ceb031-fe52-46c5-99bb-0c5c1d9719d1)
