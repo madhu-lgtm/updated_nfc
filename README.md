@@ -1,3 +1,5 @@
+## Circuit Diagram 
+<img width="886" height="678" alt="image" src="https://github.com/user-attachments/assets/3abad6ac-cbbb-489e-bcec-42a09b867f24" />
 
 ## Casing With Led Indication 
 ![Casing with Led to indicate verigfication](https://github.com/user-attachments/assets/57ceb031-fe52-46c5-99bb-0c5c1d9719d1)
